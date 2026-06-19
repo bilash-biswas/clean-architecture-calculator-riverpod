@@ -2,6 +2,8 @@
 
 A premium, glassmorphic, and highly interactive Flutter utility application built from the ground up using **Clean Architecture** principles. OmniCalc merges five daily utility tools into a single, cohesive, modern workspace featuring tactile micro-animations, glowing active UI elements, customizable ambient gradients, and a fully persistent theme customizer.
 
+### 📲 [Download Direct Release APK](https://github.com/bilash-biswas/clean-architecture-calculator-riverpod/raw/main/apk/app-release.apk)
+
 ---
 
 ## 🌟 Key Features
